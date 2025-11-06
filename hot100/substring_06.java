@@ -1,4 +1,4 @@
-package first.hot100;
+package hot100;
 
 public class substring_06 {
     public static void main(String[] args) {

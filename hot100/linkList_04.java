@@ -1,4 +1,4 @@
-package first.hot100;
+package hot100;
 
 class ListNode {
     int val;

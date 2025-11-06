@@ -1,4 +1,4 @@
-package first.trainingcamp.arrays;
+package trainingcamp.arrays;
 
 public class Solution_a {
     public static void main(String[] args) {

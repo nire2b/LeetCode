@@ -1,4 +1,4 @@
-package first.hot100;
+package hot100;
 
 public class binary_search_02 {
     public static void main(String[] args) {

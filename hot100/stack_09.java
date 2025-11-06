@@ -1,4 +1,4 @@
-package first.hot100;
+package hot100;
 
 import java.util.Deque;
 import java.util.LinkedList;

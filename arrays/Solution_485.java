@@ -1,4 +1,4 @@
-package first.arrays;
+package arrays;
 
 class Solution_485 {
     public static void main(String[] args) {
