@@ -10,7 +10,7 @@ public class array_01 {
     public static void main(String[] args) {
         Solution_01 solution01 = new Solution_01();
 //        solution01.rotate(new int[]{-1,-100,3,99},2);
-        solution01.rotate(new int[]{1,2,3,4,5,6,7},3);
+        solution01.rotate(new int[]{1,2,3,4,5,6},3);
     }
 }
 class Solution_01 {
